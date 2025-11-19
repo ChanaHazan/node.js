@@ -5,6 +5,6 @@ const studentsRouter=require('./routes/school')
 
 app.use('/school', studentsRouter)
 
-app.listen(3000,()=>{
+app.listen(5000,()=>{
     console.log("port 3000");
 })

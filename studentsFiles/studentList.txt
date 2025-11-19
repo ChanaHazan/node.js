@@ -1,0 +1,42 @@
+[
+  {
+    "fname": "Rachel",
+    "lname": "Coen",
+    "id": "11",
+    "class": 12,
+    "age": 17,
+    "grade": 100
+  },
+  {
+    "fname": "Chani",
+    "lname": "Levi",
+    "id": "22",
+    "class": 13,
+    "age": 18,
+    "grade": 95
+  },
+  {
+    "fname": "Ayelet",
+    "lname": "Hazan",
+    "id": "33",
+    "class": 12,
+    "age": 19,
+    "grade": 78
+  },
+  {
+    "fname": "Hodaya",
+    "lname": "Grin",
+    "id": "44",
+    "class": 12,
+    "age": 18,
+    "grade": 100
+  },
+  {
+    "fname": "Gila",
+    "lname": "Kroyzer",
+    "id": "55",
+    "class": 12,
+    "age": 20,
+    "grade": 85
+  }
+]
